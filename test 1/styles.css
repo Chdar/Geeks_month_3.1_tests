@@ -1,0 +1,15 @@
+/* Стили для блока */
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+  
+.highlight {
+    background-color: rgb(225, 173, 230);
+}
+  
